@@ -524,9 +524,10 @@ export const projects = [
   {
     id: "project-1",
     title: "PlanQuote Pro",
-    github: "",
-    link: "",
+    github: "https://github.com/AngujayalakshmiR/insurance-quote-calculator",
+    videoLink: "https://drive.google.com/drive/folders/1iGhhgh285xjEInCH2AN0lg4u_fgn4Hha?usp=sharing",
     image: insurance,
+
     content: "A web-based insurance calculator that lets users compute premiums based on parameters. Features include real-time calculations, dynamic risk analysis, and complete quote history for reference.",
     stack: [
       {
@@ -579,8 +580,8 @@ export const projects = [
   {
     id: "project-2",
     title: "KTG TaskFlow",
-    github: "",
-    link: "",
+    github: "https://github.com/AngujayalakshmiR/ktg-taskflow-organizational-task-management-software",
+    videoLink: "https://drive.google.com/drive/folders/1n_Jl42kw1Q-TYb0dvMvrk2GXVcVj1Rz9?usp=sharing",
     image: ktgtaskflow,
     content: "A system designed for employees and managers to manage tasks, track work hours, and handle project requirements. Facilitates task assignment, workflow management, and client meetings.",
     stack: [
@@ -624,8 +625,8 @@ export const projects = [
   {
     id: "project-3",
     title: "Healstro",
-    github: "",
-    link: "",
+    github: "https://github.com/AngujayalakshmiR/Healstro-MedicalAppointmentBookingSystem",
+    videoLink: "https://drive.google.com/drive/folders/1N3fDF5L00vaBEve8RMLF4Ok0gyhYR913?usp=sharing",
     image: healstro,
     content: "A user-friendly online appointment booking system for hospitals. This tool consists a clean interface for patients to book appointments and hospitals to view booked appointment schedules.",
     stack: [
