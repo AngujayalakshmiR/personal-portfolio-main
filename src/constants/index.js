@@ -128,7 +128,7 @@ import interview from "../assets/certification/5 Getting Started with Interview 
 import appdesign from "../assets/certification/6 App Design Online Certification - Great Learning.jpg";
 import uxdesign from "../assets/certification/7 UI_UX Design Online Certification - Great Learning.jpg";
 
-export const resumeLink = "/public/AngujayalakshmiR-Resume.pdf";
+export const resumeLink = "/AngujayalakshmiR-Resume.pdf";
 export const repoLink = "https://github.com/AngujayalakshmiR?tab=repositories";
 
 export const callToAction = "https://www.linkedin.com/in/jayalakshmi-ramesh-17267825a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app";
