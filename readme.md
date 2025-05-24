@@ -90,14 +90,6 @@ Since we have env variables, make sure to add them from the Netlify UI as well. 
 
 The checkbox for 'Contains secret values' can be checked.
 
-## Contributing 🏆
-
-We welcome contributions in the form of pull requests, issues and documentation. Feel free to help us in any way! ❤️
-
-- Please read and abide by our [Code of Conduct](https://github.com/AngujayalakshmiR/personal-portfolio-main/blob/main/CODE_OF_CONDUCT.md);
-our community aspires to be a respectful place both during online and in-person interactions.
-- Please follow the [installation guide](https://github.com/AngujayalakshmiR/personal-portfolio-main/blob/main/readme.md#installation-guide) and the [sample git workflow](https://github.com/AngujayalakshmiR/personal-portfolio-main/blob/main/readme.md#sample-git-workflow) to contribute.
-
 ## Installation Guide 🧑‍💻
 
 ### Using Git and Github
