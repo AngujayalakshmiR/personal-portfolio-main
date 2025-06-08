@@ -35,7 +35,7 @@ const Footer = () => (
         </div>
 
         <div className="grid grid-cols-2">
-          <a href={     } target="_blank" rel="noopener noreferrer">
+          <a href={window.location.href} target="_self" rel="noopener noreferrer">
             <Button styles="mt-10 mr-3 inline-flex items-center justify-center" text="Resume" icon={AiFillGithub} />
           </a>
           <a href={repoLink} target="_blank">
