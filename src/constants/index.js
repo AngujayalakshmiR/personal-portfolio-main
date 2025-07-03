@@ -284,11 +284,6 @@ export const skills = [
         name: "Bootstrap 5",
       },
       {
-        id: "fe-5",
-        icon: SiReact,
-        name: "React.js",
-      },
-      {
         id: "fe-6",
         icon: SiJquery,
         name: "jQuery",
@@ -303,26 +298,6 @@ export const skills = [
   {
     title: "Backend Stack",
     items: [
-      {
-        id: "be-1",
-        icon: FaJava,
-        name: "Core Java",
-      },
-      {
-        id: "be-2",
-        icon: SiSpring,
-        name: "Spring Boot",
-      },
-      {
-        id: "be-3",
-        icon: FaJava,
-        name: "Servlets",
-      },
-      {
-        id: "be-4",
-        icon: FaJava,
-        name: "JSP",
-      },
       {
         id: "be-5",
         icon: SiPhp,
@@ -343,11 +318,6 @@ export const skills = [
         icon: SiMysql,
         name: "MySQL",
       },
-      {
-        id: "db-2",
-        icon: SiMongodb,
-        name: "MongoDB",
-      },
     ],
   },
   {
@@ -359,19 +329,9 @@ export const skills = [
         name: "Git",
       },
       {
-        id: "t-2",
-        icon: SiSpring,
-        name: "Maven",
-      },
-      {
         id: "t-3",
         icon: SiVisualstudiocode,
         name: "VS Code",
-      },
-      {
-        id: "t-4",
-        icon: SiEclipseide,
-        name: "Eclipse IDE",
       },
       {
         id: "t-5",
@@ -406,6 +366,7 @@ export const skills = [
     ],
   },
 ];
+
 
 // Add your current/past professional work experience here
 export const experiences = [
