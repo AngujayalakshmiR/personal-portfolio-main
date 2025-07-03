@@ -59,11 +59,12 @@ const ExtraCurricular = () => {
       {!showAll && (
         <div className="flex justify-center mt-8">
           <button
-            onClick={() => setShowAll(true)}
-            className="px-6 py-2 bg-teal-500 hover:bg-teal-400 text-white font-semibold rounded-lg transition"
-          >
-            View More
-          </button>
+  onClick={() => setShowAll(true)}
+  className="px-6 py-2 bg-blue-gradient text-black font-semibold rounded-lg transition hover:opacity-90"
+>
+  View More
+</button>
+
         </div>
       )}
     </section>
